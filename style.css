@@ -1,0 +1,21 @@
+#profile_pic {
+    height: 400px;
+}
+
+#f1_logo {
+    height: 250px;
+}
+
+.interests {
+    padding: 10px;
+    margin-left: 30px;
+}
+
+body {
+    color: rgb(90, 90, 90);
+    background-color: lavender;
+}
+
+a {
+    text-decoration: none;
+}
