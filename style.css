@@ -9,13 +9,19 @@
     color: royalblue;
 }
 
-#socials img{
-    height: 70px;
-    margin-left: 50px;
+#git-logo {
+    margin-left: 5em;
 }
 
-#f1_logo {
-    height: 250px;
+.social-images img{
+    height: 70px;
+    flex: 33.33%;
+    padding: 20px;
+}
+
+#socials {
+    display: flex;
+    height: 70px;
 }
 
 .headers {
